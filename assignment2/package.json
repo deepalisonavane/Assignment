@@ -1,0 +1,15 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "metadata-scraper": "^0.2.48",
+    "nodemon": "^2.0.15"
+  }
+}
